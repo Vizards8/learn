@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+.openclaw/
+
+# Daily memory logs
+memory/
+
+# Skills (installed via npx, tracked separately)
+skills/
+
+# IDE
+.vscode/
+.idea/
+*.swp
