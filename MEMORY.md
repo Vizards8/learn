@@ -44,7 +44,8 @@
 - 周末 2-3h 周复盘 + 薄弱点专项
 
 **当前计划：**
-- P3-1 资深 Go 开发 12 周学习计划（见 workspace/study-plan.md）
+- P3-1 资深 Go 开发 16 周学习计划（见 workspace/study-plan.md）
+- GitHub 仓库：https://github.com/Vizards8/learn（openclaw 分支）
 
 ---
 
